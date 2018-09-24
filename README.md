@@ -1,3 +1,7 @@
+![1](https://raw.githubusercontent.com/rafafrdz/Criba-de-Eratostenes/master/criba1.png)
+
+![1](https://raw.githubusercontent.com/rafafrdz/Criba-de-Eratostenes/master/criba2.png)
+
 
 
 ```scala
